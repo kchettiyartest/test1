@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+Chan
+=======
+Change2
+AAAAAA
+BBBBBB
+CCCCCC
+>>>>>>> d2ce0c11e7b1c19d1a18049c63ed7442319b3b4a
